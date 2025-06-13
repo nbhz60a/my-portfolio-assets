@@ -10,11 +10,19 @@
     "title": "Understanding Commercial Leases",
     "summary": "A brief overview of key considerations when dealing with commercial real estate leases.",
     "filename": "commercial-leases.md"
-  },
+  },  {
+    "id": "property-valuation",
+    "title": "Property Valuation Fundamentals",
+    "summary": "Exploring the basic principles of property valuation for asset managers.",
+    "filename": "property-valuations.md"
+  }
   {
     "id": "property-valuation",
     "title": "Property Valuation Fundamentals",
     "summary": "Exploring the basic principles of property valuation for asset managers.",
     "filename": "property-valuation.md"
-  }
-]
+  }  },  {
+    "id": "test2",
+    "title": "Property Valuation Fundamentals",
+    "summary": "Exploring the basic principles of property valuation for asset managers.",
+    "filename": "test2.md"]
