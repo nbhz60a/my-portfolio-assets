@@ -1,0 +1,20 @@
+[
+  {
+    "id": "my-first-insights",
+    "title": "My First Asset Management Insights",
+    "summary": "An introduction to my thoughts on portfolio growth and market trends in real estate asset management.",
+    "filename": "test.md"
+  },
+  {
+    "id": "commercial-leases",
+    "title": "Understanding Commercial Leases",
+    "summary": "A brief overview of key considerations when dealing with commercial real estate leases.",
+    "filename": "commercial-leases.md"
+  },
+  {
+    "id": "property-valuation",
+    "title": "Property Valuation Fundamentals",
+    "summary": "Exploring the basic principles of property valuation for asset managers.",
+    "filename": "property-valuation.md"
+  }
+]
